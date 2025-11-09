@@ -5,30 +5,13 @@ layoutClass: 'm-home-layout'
 hero:
   name: FreeMCJPG
   text: MC Server Exchange
-  tagline: An organization dedicated to Minecraft technical communication and server promotion</br>Whether you're a player or a server owner, this is an excellent community for communication!
+  tagline: Dedicated to Minecraft technical communication and server promotion</br>Whether you're a player or a server owner, this is an excellent community for communication!
   image:
     src: /logo.png
-    alt: MCJPG
+    alt: FreeMCJPG
   actions:
-    - text: Join Group
-      link: https://qm.qq.com/q/bAZle5ABzy
-    - theme: sponsor
-      text: MC Nav
-      link: /en/nav/
-    - theme: sponsor
-      text: Columns
-      link: /en/press/
-    - theme: sponsor
-      text: MCFlare Forum
-      link: https://forum.mcflare.com
-
-features:
-  - icon:
-      src: /logo.png
-    title: Instruction
-    details: Please go to the Chinese page for the list of servers
-    link: /
-    linkText: Go!
+    - text: FreeMCJPG
+      link: https://freemcjpg.cnoctave.top/
 
 ---
 

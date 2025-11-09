@@ -19,8 +19,7 @@ import { NAV_DATA } from './data'
 ## 帮助我们添加链接
 
 ::: tip 如何修改导航？
-[docs/nav/data.ts](https://github.com/MineJPGcraft/MCJPG/blob/main/docs/nav/data.ts) 是导航的数据库，遵循 JSON 格式编辑即可。  
-如果您是站长，麻烦添加 [自由的MCJPG](https://mcjpg.org/ "自由的MCJPG官网") 到您的站点相应位置，[自由的MCJPG](https://mcjpg.org/ "自由的MCJPG官网") 感激不尽
+[docs/nav/data.ts](https://github.com/MineJPGcraft/MCJPG/blob/main/docs/nav/data.ts) 是导航的数据库，遵循 JSON 格式编辑即可。
 
 TIP: [什么是 JSON？](https://www.runoob.com/json/json-tutorial.html)
 :::

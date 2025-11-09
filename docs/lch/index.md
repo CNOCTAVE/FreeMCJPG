@@ -3,32 +3,15 @@ layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name: MCJPG
-  text: 伺服器宣傳組織
+  name: 自由的MCJPG
+  text: 
   tagline: 此乃礦藝技藝交流和伺服器宣傳</br>無論君乃戲者亦或伺服器之主，此處均為風水寶地
   image:
     src: /logo.png
-    alt: MCJPG組織
+    alt: 自由的MCJPG
   actions:
-    - text: 進組織群組
-      link: https://qm.qq.com/q/bAZle5ABzy
-    - theme: sponsor
-      text: 社區礦藝索引
-      link: /lch/nav/
-    - theme: sponsor
-      text: 組織專欄
-      link: /lch/press/
-    - theme: sponsor
-      text: MCFlare社區
-      link: https://forum.mcflare.com
-
-features:
-  - icon:
-      src: /logo.png
-    title: 警之
-    details: 往白界，可阅诸人服表
-    link: /
-    linkText: 往之
+    - text: 自由的MCJPG
+      link: https://freemcjpg.cnoctave.top/
 
 ---
 

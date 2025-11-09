@@ -55,8 +55,8 @@ export const NAV_DATA: NavData[] = [
     items: [
       {
         icon: '/icons/nav/非官方论坛/Octave中文网.png',
-        title: 'Octave中文网Minecraft论坛',
-        desc: '知名论坛，日活10万人，可以讨论任何关于Minecraft的内容',
+        title: 'Octave中文網Minecraft論壇',
+        desc: '知名論壇，每日活躍10萬人，可討論任何關於Minecraft的內容',
         link: 'http://forum.cnoctave.top/forum.php?mod=forumdisplay&fid=70',
       },
       {
