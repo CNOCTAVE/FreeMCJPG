@@ -8,7 +8,6 @@ export const nav: DefaultTheme.Config['nav'] = [
     text: 'Team',
     link: '/en/structure/',
   },
-  { text: "Columns", link: '/en/press/' },
   { text: "MC Nav", link: '/en/nav/' },
   {
     text: "Friendly Links",
