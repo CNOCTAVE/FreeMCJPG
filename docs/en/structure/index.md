@@ -107,29 +107,15 @@ const community = [
 
   <VPTeamPageTitle>
     <template #title>Our team</template>
-    <template #lead>Meet the members behind MCJPG, an MC server technical communication and advocacy organization dedicated to improving the server ecosystem through faster, safer software and better advocacy.</template>
+    <template #lead>Yu Hongbo, General Manager of BA DU XIN SHANG Company, Chief Engineer of CNOCTAVE</template>
   </VPTeamPageTitle>
-  <VPTeamPageSection>
-    <template #title>Development Department</template>
-    <template #lead>MCJPG developers help write code, review member service requests, and keep the project alive. They keep MCJPG running by contributing new community services and helping to improve old ones!</template>
-    <template #members>
-      <VPTeamMembers size="small" :members="code" />
-    </template>
-  </VPTeamPageSection>
-  <VPTeamPageSection>
-    <template #title>Community Department</template>
-    <template #lead>MCJPG Community Department maintains the order of the community by reviewing new memberships and publicizes the organization to ensure that MCJPG remains a healthy and vibrant community.</template>
-    <template #members>
-      <VPTeamMembers size="small" :members="community" />
-    </template>
-  </VPTeamPageSection>
 
 </VPTeamPage>
 
 <center>Contributors who helped us add servers:</center>
 
-<center><a href="https://github.com/MineJPGCraft/MCJPG/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=MineJPGCraft/MCJPG" alt="Contributors"/>
+<center><a href="https://github.com/CNOCTAVE/FreeMCJPG/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CNOCTAVE/FreeMCJPG" alt="Contributors"/>
 </a></center>
 
 <center>Tribute to the participants above!</center>

@@ -108,29 +108,15 @@ const community = [
 
   <VPTeamPageTitle>
     <template #title>吾輩之隊陣</template>
-    <template #lead>請容吾介紹MCJPG之幕後英豪，此乃一專注於MC伺服器技術研討與宣傳之團體，矢志以更迅疾、更安穩之軟體，及更周全之宣傳策略，優化伺服器之生態環境。</template>
+    <template #lead>于紅博 八度信商公司總經理 Octave中文網總工程師</template>
   </VPTeamPageTitle>
-  <VPTeamPageSection>
-    <template #title>開發部</template>
-    <template #lead>MCJPG之開發者，助力編撰程式碼，審閱成員伺服請求，並維繫項目之生機。彼等以獻出新社群服務，並助益舊有服務之完善，使MCJPG得以運轉無虞。</template>
-    <template #members>
-      <VPTeamMembers size="small" :members="code" />
-    </template>
-  </VPTeamPageSection>
-  <VPTeamPageSection>
-    <template #title>社群部</template>
-    <template #lead>MCJPG之社群部門，專司審核新入成員之伺服請求，維護交流社群之秩序，行組織之宣傳，以保障MCJPG擁有康健向上之生命力。</template>
-    <template #members>
-      <VPTeamMembers size="small" :members="community" />
-    </template>
-  </VPTeamPageSection>
 
 </VPTeamPage>
 
 <center>襄助吾等、增益伺服之諸君：</center>
 
-<center><a href="https://github.com/MineJPGCraft/MCJPG/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=MineJPGCraft/MCJPG" alt="Contributors"/>
+<center><a href="https://github.com/CNOCTAVE/FreeMCJPG/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CNOCTAVE/FreeMCJPG" alt="Contributors"/>
 </a></center>
 
 <center>上列諸賢，敬謝之至！</center>

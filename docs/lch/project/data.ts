@@ -10,6 +10,35 @@ export const NAV_DATA: NavData[] = [
     title: '官網',
     items: [
       {
+        icon: 'https://avatars.githubusercontent.com/u/184102101?v=4',
+        title: 'Octave中文網',
+        desc: '',
+        link: 'http://cnoctave.top',
+      },
+      {
+        icon: 'https://avatars.githubusercontent.com/u/184102101?v=4',
+        title: 'Octave中文網（备用網址）',
+        desc: '',
+        link: 'http://www.cnoctave.top',
+      },
+      {
+        icon: 'https://avatars.githubusercontent.com/u/184102101?v=4',
+        title: '中文版Octave文档線上閱覽',
+        desc: '',
+        link: 'http://docs.cnoctave.top',
+      },
+      {
+        icon: 'https://avatars.githubusercontent.com/u/184102101?v=4',
+        title: 'Octave中文網學術論壇',
+        desc: '',
+        link: 'http://forum.cnoctave.top',
+      },
+    ],
+  },
+  {
+    title: '（原版）官網',
+    items: [
+      {
         icon: '/logo.png',
         title: 'MCJPG官網',
         desc: '吾輩之官網',

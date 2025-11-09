@@ -21,7 +21,7 @@ export const en_US = defineConfig({
       
         footer: {
             message: 'FreeMCJPG',
-            copyright: 'Copyright © 2025 CNOCTAVE 非营利性站点'
+            copyright: 'Copyright © 2025 CNOCTAVE Non-Profit Website'
           },
       
         lastUpdated: {
