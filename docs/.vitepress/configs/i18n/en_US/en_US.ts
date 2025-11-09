@@ -20,7 +20,7 @@ export const en_US = defineConfig({
           },
       
         footer: {
-            message: 'MCJPG Server Exchange',
+            message: 'FreeMCJPG',
             copyright: 'Copyright © 2025 CNOCTAVE 非营利性站点'
           },
       

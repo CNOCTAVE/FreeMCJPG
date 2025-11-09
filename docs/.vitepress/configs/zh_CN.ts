@@ -20,7 +20,7 @@ export const zh_CN = defineConfig({
           },
       
         footer: {
-            message: 'MCJPG',
+            message: '自由的MCJPG',
             copyright: 'Copyright © 2025 CNOCTAVE 非营利性站点'
           },
       
