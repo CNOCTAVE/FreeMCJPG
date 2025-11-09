@@ -1,9 +1,9 @@
 ---
 layout: doc
 title: First Anniversary Special
-description: MCJPG Organization's First Anniversary Special
+description: MCJPG's First Anniversary Special
 ---
-# MCJPG Organization's First Anniversary Special
+# MCJPG's First Anniversary Special
 
 ## Introduction
 

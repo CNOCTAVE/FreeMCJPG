@@ -1,7 +1,7 @@
 export const sidebar = {
     '/en/press/': [
       {
-        text: 'MCJPG Organization Column',
+        text: 'MCJPG Column',
         items: [
           { text: 'Introduction', link: '/en/press/' },
           {

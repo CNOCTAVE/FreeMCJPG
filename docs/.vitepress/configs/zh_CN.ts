@@ -21,7 +21,7 @@ export const zh_CN = defineConfig({
       
         footer: {
             message: 'MCJPG',
-            copyright: 'Copyright © 2025-present <a href="https://mcjpg.org/">MCJPG</a>— —<a href="https://github.com/MineJPGcraft/MCJPG">网站的仓库</a>'
+            copyright: 'Copyright © 2025 CNOCTAVE 非营利性站点'
           },
       
         lastUpdated: {

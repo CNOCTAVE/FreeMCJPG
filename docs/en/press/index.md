@@ -1,14 +1,14 @@
 ---
 layout: doc
-title: Organization Column
-description: Introduction to MCJPG Organization Column
+title: Column
+description: Introduction to MCJPG Column
 next: false
 footer: false
 ---
-# MCJPG Organization Column
+# MCJPG Column
 
 ## Introduction
-Welcome to the homepage of the **MCJPG** Organization Column.  
+Welcome to the homepage of the **MCJPG** Column.  
 Here, you can learn about the history and events of the **MCJPG** organization through our column.  
 These can help everyone better understand this community and organization.  
 

@@ -26,7 +26,7 @@ We also provide each server owner in need with a xxx.mcjpg.org domain to connect
 Furthermore, our bots in the community and server owner groups are integrated with [status monitoring](https://status.mcjpg.org "Status Monitoring"), allowing real-time server status checks through bot notifications (though sometimes it can be quite noisy).
 
 ### Promotional Activities
-As of writing, we have published two promotional videos on Bilibili, namely the [Community Promotional Video](https://www.bilibili.com/video/BV1pH4GehErc/ "Community Promotional Video") and the [Organization Promotional Video](https://www.bilibili.com/video/BV11geceREMb/ "Organization Promotional Video"). Both have achieved good viewership.
+As of writing, we have published two promotional videos on Bilibili, namely the [Community Promotional Video](https://www.bilibili.com/video/BV1pH4GehErc/ "Community Promotional Video") and the [ Promotional Video](https://www.bilibili.com/video/BV11geceREMb/ " Promotional Video"). Both have achieved good viewership.
 
 ## But That’s Not All...
 As you can see, **MCJPG** is still an organization in need of improvement. We welcome valuable suggestions from all players and server owners.  

@@ -80,4 +80,4 @@ Server administrators, please read the above requirements carefully and prepare 
 
 Sincerely,
 
-Yubaozhi - MCJPG Organization Publicity Department
+Yubaozhi - MCJPG Publicity Department

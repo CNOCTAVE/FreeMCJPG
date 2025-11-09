@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Our Team
-description: List of MCJPG Organization Team Members
+description: List of MCJPG Team Members
 ---
 <script setup>
 import {

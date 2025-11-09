@@ -28,4 +28,4 @@ Through technological innovation, we stride towards a boundless future; in commu
 
 ## Finally
 
-**On this National Day holiday, we sincerely wish every player, developer, and ambitious innovator a happy holiday! The MCJPG Organization will, as always, work with you to create new brilliance!**
+**On this National Day holiday, we sincerely wish every player, developer, and ambitious innovator a happy holiday! The MCJPG will, as always, work with you to create new brilliance!**
