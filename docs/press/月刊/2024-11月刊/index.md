@@ -4,16 +4,16 @@ title: 2024-11月刊
 description: MCJPG 2024-11月刊
 prev: false
 ---
-# 自由的MCJPG组织 2024-11月刊
+# 自由的MCJPG 2024-11月刊
 
 ## 前言
 
-截止发稿，**MCJPG**组织 成立已有3个月，随着时间的推移，有越来越多的玩家和服务器加入了这一新生组织  
+截止发稿，**MCJPG** 成立已有3个月，随着时间的推移，有越来越多的玩家和服务器加入了这一新生  
 其中不少有人为其作出了贡献，在此表示感谢
 
 ## 项目
 
-这段时间，**MCJPG**组织 将中心放在了开发工作上，~~于是宣传工作就鸽了~~  
+这段时间，**MCJPG** 将中心放在了开发工作上，~~于是宣传工作就鸽了~~  
 以下是我们在这段时间开发的项目
 
 ### 状态监测
@@ -24,13 +24,13 @@ prev: false
 
 ### Markdown编辑器
 
-**MCJPG**组织 部署了开源在线Markdown编辑器 [Arya](https://github.com/nicejade/markdown-online-editor)  
+**MCJPG** 部署了开源在线Markdown编辑器 [Arya](https://github.com/nicejade/markdown-online-editor)  
 可以帮助各位玩家和服主快速便捷地编辑Markdown文本
 [点击前往](https://editor.mcjpg.org)
 
 ### AI对话
 
-基于开源项目[LobeChat](https://github.com/lobehub/lobe-chat)，**MCJPG**组织 搭建了 [可视化AI对话网页](https://chat.mcjpg.org/)  
+基于开源项目[LobeChat](https://github.com/lobehub/lobe-chat)，**MCJPG** 搭建了 [可视化AI对话网页](https://chat.mcjpg.org/)  
 但API仍然需要用户自行提供  
 在不久的将来，**MCJPG** 会为有需要的服主提供**免费**的AI服务，敬请期待
 
@@ -50,7 +50,7 @@ prev: false
 
 ## 联动
 
-经过讨论，**MCJPG**组织 正式与 [桃花源联谊组织](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=_f6OAfAbCuyIbiny20DsPSd33-Zx-hRU&authKey=6kJlwUInU9ZPwU2SureaIgMLq%2FMMHWB0FsBbai5qdoch8uk%2BxPBp4cMOg2evXWXy&noverify=0&group_code=415027991) 达成合作关系  
+经过讨论，**MCJPG** 正式与 [桃花源联谊](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=_f6OAfAbCuyIbiny20DsPSd33-Zx-hRU&authKey=6kJlwUInU9ZPwU2SureaIgMLq%2FMMHWB0FsBbai5qdoch8uk%2BxPBp4cMOg2evXWXy&noverify=0&group_code=415027991) 达成合作关系  
 在接下来的日子，我们将共同发展，为国内**MC**社区建设贡献一份力量
 
 ## 最后

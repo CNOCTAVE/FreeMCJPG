@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 我们的团队
-description: 自由的MCJPG组织团队成员列表
+description: 自由的MCJPG团队成员列表
 ---
 <script setup>
 import {
@@ -107,7 +107,7 @@ const community = [
 
   <VPTeamPageTitle>
     <template #title>我们的团队</template>
-    <template #lead>认识一下 MCJPG 背后的成员，这是一个 MC服务器 技术交流与宣传组织，致力于通过更快、更安全的软件和更完善的宣传改善服务器生态</template>
+    <template #lead>认识一下 MCJPG 背后的成员，这是一个 MC服务器 技术交流与宣传，致力于通过更快、更安全的软件和更完善的宣传改善服务器生态</template>
   </VPTeamPageTitle>
   <VPTeamPageSection>
     <template #title>开发部</template>
@@ -118,7 +118,7 @@ const community = [
   </VPTeamPageSection>
   <VPTeamPageSection>
     <template #title>社区部</template>
-    <template #lead>MCJPG 社区部门通过审核新加入的成员服，维护交流社区的秩序，对组织进行宣传，以确保 MCJPG 拥有健康向上的生命力</template>
+    <template #lead>MCJPG 社区部门通过审核新加入的成员服，维护交流社区的秩序，对进行宣传，以确保 MCJPG 拥有健康向上的生命力</template>
     <template #members>
       <VPTeamMembers size="small" :members="community" />
     </template>

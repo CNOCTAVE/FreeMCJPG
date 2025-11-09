@@ -2,11 +2,11 @@ import { defineConfig, type DefaultTheme } from 'vitepress'
 import {  nav, sidebar, } from './'
 
 export const zh_CN = defineConfig({
-    title: '自由的MCJPG组织网站',
-    description: 'Minecraft (MCJPG)-一个致力于Minecraft技术交流和服务器宣传的新兴组织',
+    title: '自由的MCJPG网站',
+    description: 'Minecraft (MCJPG)-一个致力于Minecraft技术交流和服务器宣传的新兴',
 
     themeConfig: {
-        siteTitle: '自由的MCJPG组织',
+        siteTitle: '自由的MCJPG',
         nav,
         sidebar,
         editLink: {

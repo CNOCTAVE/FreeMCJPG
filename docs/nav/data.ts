@@ -355,14 +355,14 @@ export const NAV_DATA: NavData[] = [
     items: [
       {
         icon: '/logo.png',
-        title: '自由的MCJPG组织',
-        desc: '自由的MCJPG组织官网',
+        title: '自由的MCJPG',
+        desc: '自由的MCJPG官网',
         link: 'https://mcjpg.org',
       },
       {
         icon: '/icons/nav/服务器门户/MSCPO.webp',
         title: 'MSCPO',
-        desc: '一个服务器集体宣传组织',
+        desc: '一个服务器集体宣传',
         link: 'https://mscpo.top/',
       },
       {

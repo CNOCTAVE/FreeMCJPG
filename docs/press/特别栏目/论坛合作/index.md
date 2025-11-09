@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: 宣传须知
-description: 自由的MCJPG组织和HiMCBBS、小僵尸论坛合作宣传的要求
+description: 自由的MCJPG和HiMCBBS、小僵尸论坛合作宣传的要求
 ---
 # 服务器宣传须知
 您好，各位服主！
@@ -82,5 +82,5 @@ description: 自由的MCJPG组织和HiMCBBS、小僵尸论坛合作宣传的要�
 
 此致，
 
-鱼包纸-自由的MCJPG组织宣传部
+鱼包纸-自由的MCJPG宣传部
 

@@ -3,24 +3,15 @@ layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name: MCJPG
+  name: 自由的MCJPG
   text: 
-  tagline: 一个致力于Minecraft技术交流和服务器宣传的组织</br>无论你是玩家还是服主，这里都是优秀的交流社区
+  tagline: 一个致力于Minecraft技术交流和服务器宣传的社区</br>无论你是玩家还是服主，这里都是优秀的交流社区
   image:
     src: /logo.png
-    alt: 自由的MCJPG组织
+    alt: 自由的MCJPG
   actions:
-    - text: 加入社区群组
-      link: https://qm.qq.com/q/bAZle5ABzy
-    - theme: sponsor
-      text: 社区MC导航
-      link: /nav/
-    - theme: sponsor
-      text: 组织专栏
-      link: /press/
-    - theme: sponsor
-      text: MCFlare社区
-      link: https://forum.mcflare.com
+    - text: 自由的MCJPG
+      link: https://freemcjpg.cnoctave.top/
 
 
 ---
