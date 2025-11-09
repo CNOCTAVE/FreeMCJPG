@@ -20,7 +20,7 @@ import { NAV_DATA } from './data'
 
 ::: tip 如何改之索引
 [docs/nav/data.ts](https://github.com/MineJPGcraft/MCJPG/blob/main/docs/nav/data.ts) 乃索引之數據庫，以 JSON 格式寫入即可。 
-如果您是網站之主，煩請添 [MCJPG组织](https://mcjpg.org/ "MCJPG组织官网") 至君站點之相應位置，[MCJPG组织](https://mcjpg.org/ "MCJPG组织官网") 感激不盡！
+如果您是網站之主，煩請添 [自由的MCJPG组织](https://mcjpg.org/ "自由的MCJPG组织官网") 至君站點之相應位置，[自由的MCJPG组织](https://mcjpg.org/ "自由的MCJPG组织官网") 感激不盡！
 
 TIP: [JSON 為何物？](https://www.runoob.com/json/json-tutorial.html)
 :::

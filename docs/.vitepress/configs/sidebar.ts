@@ -1,7 +1,7 @@
 export const sidebar = {
     '/press/': [
       {
-        text: 'MCJPG组织专栏',
+        text: '自由的MCJPG组织专栏',
         items: [
           { text: '简介', link: '/press/' },
           {

@@ -9,10 +9,8 @@ import { search as zhSearch } from './configs/zh_CN'
 import { search as lzhSearch } from './configs/i18n/zh-classical/zh_classical'
 import { head , socialLinks } from './configs'
 
-// const APP_BASE_PATH = basename(process.env.GITHUB_REPOSITORY || '')
 
 export default defineConfig({
-  // base: APP_BASE_PATH ? `/${APP_BASE_PATH}/` : '/',
   base: '/',
 
   lang: 'zh-CN',

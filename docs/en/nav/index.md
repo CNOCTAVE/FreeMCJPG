@@ -20,7 +20,7 @@ import { NAV_DATA } from './data'
 
 ::: tip How to modify the navigation?
 [docs/en/nav/data.ts](https://github.com/MineJPGcraft/MCJPG/blob/main/docs/en/nav/data.ts) is the database for navigation, just follow the JSON format for editing.  
-If you are a webmaster, please add [MCJPG Organization](https://mcjpg.org/ "MCJPG组织官网") to the appropriate location on your site，[MCJPG Organization](https://mcjpg.org/ "MCJPG Website") thanks a lot
+If you are a webmaster, please add [MCJPG Organization](https://mcjpg.org/ "自由的MCJPG组织官网") to the appropriate location on your site，[MCJPG Organization](https://mcjpg.org/ "MCJPG Website") thanks a lot
 
 TIP: [What is JSON ?](https://www.runoob.com/json/json-tutorial.html)
 :::

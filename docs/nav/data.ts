@@ -355,8 +355,8 @@ export const NAV_DATA: NavData[] = [
     items: [
       {
         icon: '/logo.png',
-        title: 'MCJPG组织',
-        desc: 'MCJPG组织官网',
+        title: '自由的MCJPG组织',
+        desc: '自由的MCJPG组织官网',
         link: 'https://mcjpg.org',
       },
       {

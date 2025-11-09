@@ -4,7 +4,7 @@ title: 2024-11月刊
 description: MCJPG 2024-11月刊
 prev: false
 ---
-# MCJPG组织 2024-11月刊
+# 自由的MCJPG组织 2024-11月刊
 
 ## 前言
 

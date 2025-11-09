@@ -1,9 +1,9 @@
 ---
 layout: doc
 title: 一周年特辑
-description: MCJPG组织一周年特辑
+description: 自由的MCJPG组织一周年特辑
 ---
-# MCJPG组织一周年特辑
+# 自由的MCJPG组织一周年特辑
 
 ## 引言
 

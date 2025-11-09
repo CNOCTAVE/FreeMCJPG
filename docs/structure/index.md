@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 我们的团队
-description: MCJPG组织团队成员列表
+description: 自由的MCJPG组织团队成员列表
 ---
 <script setup>
 import {
