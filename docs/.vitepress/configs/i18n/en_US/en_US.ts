@@ -2,15 +2,15 @@ import { defineConfig, type DefaultTheme } from 'vitepress'
 import {  nav, sidebar, } from './'
 
 export const en_US = defineConfig({
-    title: 'MCJPG Website',
-    description: 'Minecraft Server Communication (MCJPG) - an organization dedicated to Minecraft technical communication and server promotion.',
+    title: 'FreeMCJPG',
+    description: 'FreeMCJPG—A non-profit organization dedicated to Minecraft technology exchange and server promotion',
 
     themeConfig: {
-        siteTitle: 'MCJPG',
+        siteTitle: 'FreeMCJPG',
         nav,
         sidebar,
         editLink: {
-            pattern: 'https://github.com/MineJPGcraft/MCJPG/edit/main/docs/:path',
+            pattern: 'https://github.com/CNOCTAVE/FreeMCJPG/edit/main/docs/:path',
             text: 'Edit this page'
           },
         

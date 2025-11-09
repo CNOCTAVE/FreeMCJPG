@@ -2,15 +2,15 @@ import { defineConfig, type DefaultTheme } from 'vitepress'
 import {  nav, sidebar, } from './'
 
 export const lch = defineConfig({
-    title: 'MCJPG組織網站',
-    description: '礦藝伺服器交流組織 (MCJPG)——致力於礦藝技術交流及伺服器宣傳之新興組織',
+    title: '自由的MCJPG',
+    description: '自由的MCJPG-致力於礦藝技術交流及伺服器宣傳',
 
     themeConfig: {
-        siteTitle: 'MCJPG組織',
+        siteTitle: '自由的MCJPG',
         nav,
         sidebar,
         editLink: {
-            pattern: 'https://github.com/MineJPGcraft/MCJPG/edit/main/docs/:path',
+            pattern: 'https://github.com/CNOCTAVE/FreeMCJPG/edit/main/docs/:path',
             text: '編輯此頁'
           },
         
