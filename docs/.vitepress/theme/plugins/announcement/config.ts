@@ -23,32 +23,6 @@ export interface AnnouncementConfig {
  * 按 priority 降序排列，数值越大优先级越高
  */
 export const announcements: AnnouncementConfig[] = [
-  {
-    id: 'welcome',
-    title: '欢迎来到 MCJPG',
-    content: '🎉 欢迎来到 MCJPG 官网！',
-    type: 'info',
-    priority: 100,
-    showIcon: true,
-    closable: true,
-    duration: 5000,
-    position: 'top',
-    target: ['/']
-  },
-  {
-    id: 'new-feature',
-    title: 'MCFlare上线',
-    content: '✨ 一个新兴的MC社区！',
-    type: 'success',
-    priority: 80,
-    startTime: '2025-10-01',
-    endTime: '2025-12-01',
-    showIcon: true,
-    closable: true,
-    duration: 5000,
-    position: 'top',
-    target: ['/'] // 仅首页显示
-    }
 
 ]
 /**
